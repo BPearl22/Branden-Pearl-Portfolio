@@ -9,7 +9,7 @@ This technical assessment tested my ability to perform data analysis and visuali
 - Jupyter Notebook Documentation And Output Interpretation  
 
 ## 📄 Assessment File
-[View Jupyter Notebook](./Unit4-Assessment.ipynb)
+[View Jupyter Notebook](./Technical-Assessment-Solution.ipynb)
 
 ---
 
