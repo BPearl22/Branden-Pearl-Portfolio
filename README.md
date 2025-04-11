@@ -7,6 +7,7 @@ Hi, I'm Branden Pearl — a Security+ certified cybersecurity professional with 
 
 🔐 About Me
 
+
 🎓 Psychology grad turned cybersecurity analyst
 
 🧠 Focused on human-based threats & security awareness
@@ -19,6 +20,7 @@ Hi, I'm Branden Pearl — a Security+ certified cybersecurity professional with 
 
 📂 Featured Projects
 
+
 Hack a Home – A capstone project exposing vulnerabilities in smart devices
 
 Social Engineering Handbook – Practical guide to human-based attack vectors
@@ -30,6 +32,7 @@ Bootcamp Coursework – School scenarios, simulations, and cybersecurity challen
 
 
 🚀 Let's Connect
+
 
 LinkedIn: [linkedin.com/in-branden-pearl]
 
