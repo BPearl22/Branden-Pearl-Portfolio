@@ -34,7 +34,7 @@ Bootcamp Coursework – School scenarios, simulations, and cybersecurity challen
 🚀 Let's Connect
 
 
-LinkedIn: [linkedin.com/in-branden-pearl]
+[LinkedIn](https://www.linkedin.com/in/branden-pearl/)
 
 Email: [pearl.branden97@gmail.com]
 
