@@ -17,6 +17,21 @@ Hi, I'm Branden Pearl — a Security+ certified cybersecurity professional with 
 🎯 Actively pursuing roles in SOC analysis, threat detection, and risk mitigation
 
 
+## 📂 Portfolio Highlights
+
+### 🔐 Capstone Projects
+- [Hack a Home](./Capstone/README.md)
+
+### 📘 Written Guides
+- [Social Engineering Handbook](./Guides/README.md)
+
+### 🧪 Labs
+- [Network Security, Forensics, and IR Labs](./Labs/README.md)
+
+### 🎓 School Work & Simulations
+- [Bootcamp Scenarios & Career Simulations](./School-Work/README.md)
+
+
 
 📂 Featured Projects
 
